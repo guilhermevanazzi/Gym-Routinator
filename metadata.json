@@ -1,0 +1,5 @@
+{
+  "name": "Gym Routinator",
+  "description": "A military-grade workout organizer to create routines, track progress, log workouts, and time your rest intervals.",
+  "requestFramePermissions": []
+}
